@@ -1,0 +1,14 @@
+name: DAPR 2023 Steering and Technical Committee
+organization: Dapr
+start_datetime: 2023-11-10 00:00:01
+end_datetime: 2023-11-30 23:59:00
+no_winners: 1
+allow_no_opinion: True
+delete_after: True
+show_candidate_fields:
+  - employer
+election_officers:
+  - johnewart
+eligibility: Everyone may vote!
+exception_description: If you are a member of the steering committee, and find that you are for some reason unable to vote, please fill out the exception form.  If that still doesn't work for you, contact jberkus@redhat.com.
+exception_due: 2023-11-13 10:00:00
